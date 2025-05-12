@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Coders Base Solutions](https://github.com/Coders-Base-Solutions)
 
-- 💬 Ask me about **Angular, Nest, React, PostgreSQL, Firebase / Firestore**
+- 💬 Ask me about **Angular, React, Nest, PostgreSQL, MongoDB, Firestore, Firebase**
 
 - 📫 How to reach me **naeemnoman548@gmail.com**
 
